@@ -1,0 +1,5 @@
+root
+admin
+test
+ubuntu
+ec-user
